@@ -30,7 +30,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://icons8.com/icon/wpZmKzk11AzJ/typescript" alt="javascript" width="40" height="40"/> </a>
+<!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://icons8.com/icon/wpZmKzk11AzJ/typescript" alt="ts" width="40" height="40"/> </a> -->
 <a href="https://babeljs.io/" target="_blank"> <img src="https://img.icons8.com/wired/64/000000/babel.png" alt="babel" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="react" width="40" height="40"/> </a>
@@ -43,3 +43,9 @@
 <a href="#" target="_blank"> <img src="https://icons8.com/icon/RlIXjuTUrwoX/api" alt="api" width="40" height="40"/></a>
 <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-light.png" alt="redux" width="40" height="40"/></a>
 </p>
+<br />
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmanmajeed&show_icons=true&locale=en&layout=compact&theme=radical" alt="rahmanmajeed" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmanmajeed&show_icons=true&locale=en&theme=radical" alt="rahmanmajeed" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmanmajeed&theme=radical" alt="rahmanmajeed" /></p>
