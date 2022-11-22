@@ -39,13 +39,11 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="mysql" width="40" height="40"/> </a>
 <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/laravel.png" alt="laravel" width="40" height="40"/> </a>
 <a href="https://redis.io" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redis.png" alt="redis" width="40" height="40"/></a>
-<a href="https://redis.io" target="_blank"> <img src="https://icons8.com/icon/rHpveptSuwDz/json-web-token" alt="jwt" width="40" height="40"/></a>
-<a href="#" target="_blank"> <img src="https://icons8.com/icon/RlIXjuTUrwoX/api" alt="api" width="40" height="40"/></a>
 <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-light.png" alt="redux" width="40" height="40"/></a>
 </p>
 <br />
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmanmajeed&show_icons=true&locale=en&layout=compact&theme=radical" alt="rahmanmajeed" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanmajeed&layout=compact&theme=radical" alt="rahmanmajeed" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmanmajeed&show_icons=true&locale=en&theme=radical" alt="rahmanmajeed" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmanmajeed&show_icons=true&theme=radical" alt="rahmanmajeed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmanmajeed&theme=radical" alt="rahmanmajeed" /></p>
