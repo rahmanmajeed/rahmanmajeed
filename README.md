@@ -4,9 +4,9 @@
 
 - 🔭 &nbsp; I’m currently working at **[BrainStation-23](https://brainstation-23.com/?bc).**
 
-- ✎ &nbsp; I’m currently working with **Laravel**, **Javascript**, **React**, **Redux**, **Next JS**, **Wordpress**, **Typescript**, **Node JS** and **Tailwind CSS**
+- ✎ &nbsp; I’m currently working with **Laravel**, **Javascript**, **React**, **Redux**, **Next JS**, **Typescript**, **Node JS**, **Docker**, **Nest JS** and **Tailwind CSS**
 
-- ⭆ &nbsp; I’m currently learning **GraphQL**, **Docker**, **Nest JS**
+- ⭆ &nbsp; I’m currently learning **GraphQL**.
 
 - 🌱 I believe that everyday is a learning opportunity.
 
